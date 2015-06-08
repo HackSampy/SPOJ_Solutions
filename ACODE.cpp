@@ -1,5 +1,7 @@
 /*
     Solution for ACODE problem.
+    http://www.spoj.com/problems/ACODE/
+    
 */
 #include <bits/stdc++.h>
 
