@@ -1,3 +1,9 @@
+/*
+    Solution for ACODE problem.
+    http://www.spoj.com/problems/FCTRL/
+    
+*/
+
 #include <iostream>
 
 using namespace std;
